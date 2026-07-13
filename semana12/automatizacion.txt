@@ -1,0 +1,10 @@
+Automatización con n8n o Telegram
+
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa registrada correctamente. Ya está disponible para recibir apoyos."
+
+Información que no debe enviarse:
+No se deben enviar datos personales como números de identificación, teléfonos, direcciones, correos electrónicos ni comentarios privados de los usuarios, con el fin de proteger su privacidad.
